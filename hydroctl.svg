@@ -1,0 +1,8 @@
+<svg width="256" height="256" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="128" cy="128" r="100" fill="black" stroke="blue" stroke-width="8"/>
+    <path d="M128 28 L158 108 L98 108 Z" fill="blue"/>
+    <path d="M128 228 L98 148 L158 148 Z" fill="blue"/>
+    <path d="M28 128 L108 98 L108 158 Z" fill="blue"/>
+    <path d="M228 128 L148 158 L148 98 Z" fill="blue"/>
+</svg>
+
