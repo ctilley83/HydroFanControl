@@ -1,0 +1,1 @@
+LED fan lighting control for the LianLi Hydroshift AIO Cooler. Simply open In QT Creator and build. You may have to change the path for the HIDAPI_INCLUDE_DIR and HIDAPI_LIBRARY environment variables.
